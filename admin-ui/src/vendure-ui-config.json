@@ -1,0 +1,26 @@
+{
+  "adminApiPath": "admin-api",
+  "apiHost": "auto",
+  "apiPort": 3000,
+  "tokenMethod": "cookie",
+  "authTokenHeaderKey": "vendure-auth-token",
+  "defaultLanguage": "en",
+  "availableLanguages": [
+    "de",
+    "en",
+    "es",
+    "pl",
+    "zh_Hans",
+    "zh_Hant",
+    "pt_BR",
+    "pt_PT",
+    "cs",
+    "fr",
+    "ru",
+    "uk",
+    "it"
+  ],
+  "brand": "My Store phone",
+  "hideVendureBranding": true,
+  "hideVersion": true
+}
